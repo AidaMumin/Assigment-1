@@ -1,7 +1,7 @@
 //Aida Mumin
 //CSC 4360 - Umoja
-//June 13, 2022
-//Assignment 
+//June 15, 2022
+//Assignment 1
 
 import 'package:english_words/english_words.dart';  
 import 'package:flutter/material.dart';
